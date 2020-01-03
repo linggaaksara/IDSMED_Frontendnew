@@ -1,2 +1,2 @@
 # IDSMED_Frontendnew
-Sintax terbaru
+React.js
